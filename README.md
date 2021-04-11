@@ -40,3 +40,48 @@ https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGt
 
 # Stanford CS224U: Natural Language Understanding | Spring 2019
 https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+
+# Theja Tulabandhula 
+#https://github.com/thejat/dl-notebooks/blob/master/LectureDetails.ipynb
+https://www.youtube.com/c/ThejaTulabandhula/playlists
+
+# Broderick: Machine Learning, MIT 6.036 Fall 2020 
+https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV
+
+# Course notes for MSDS621 at Univ of San Francisco, introduction to machine learning
+https://github.com/parrt/msds621
+
+# UVA DEEP LEARNING COURSE
+http://uvadlc.github.io/
+
+# COMP547: Deep Unsupervised Learning
+https://aykuterdem.github.io/classes/comp547/lectures.html
+
+# Data Engineering Course
+https://www.youtube.com/playlist?list=PLl1UZ8mtwZDCrXv830r6eZ_TFMu-kVWI0
+
+# Machine learning with kernel methods, Spring 2021
+https://www.youtube.com/playlist?list=PLD93kGj6_EdrkNj27AZMecbRlQ1SMkp_o
+http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2021mva/index.html
+
+
+# UMass CS685 (Advanced NLP): course introduction
+https://www.youtube.com/watch?v=TEEAz-Sn15c&list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL
+
+# UC Davis Statistics 208 : Statistical Machine Learning
+https://www.youtube.com/playlist?list=PLCTcZfebNw2kcgWfMu41CMCA1c03lVLBE 
+https://github.com/jsharpna/DavisSML
+
+# Ryan T
+https://www.youtube.com/channel/UCIvaLZcfz3ikJ1cD-zMpIXg/playlists
+
+# Aaron Meyer
+https://www.youtube.com/channel/UC0l-QH53oIi9xR81P32-jYg/playlists
+https://aarmey.github.io/ml-for-bioe/outline/ 
+
+# Full Stack Deep Learning
+https://www.youtube.com/c/FullStackDeepLearning/playlists
+
+# Chris Albon
+https://www.youtube.com/c/ChrisAlbonVideos/videos
+
