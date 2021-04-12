@@ -2,6 +2,10 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Matthias Niessner
+https://niessnerlab.org/teaching.html
+https://niessner.github.io/I2DL/
+
 
 # Data and Knowledge Modeling and Analysis
 https://www.youtube.com/channel/UC7vU2kP8oNwvr0GuAqoxYGA/playlists
