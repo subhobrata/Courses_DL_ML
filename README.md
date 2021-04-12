@@ -2,6 +2,12 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Rishabh Iyer
+https://www.youtube.com/channel/UCFxNtj-vst1VQKWjtwlzAzQ/playlists
+
+# Thomas Slawig
+https://www.youtube.com/user/thomasslawig/playlists
+
 # Multimodal Machine Learning
 https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc
 
