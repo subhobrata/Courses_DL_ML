@@ -2,6 +2,21 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# UofU Data Science
+https://www.youtube.com/c/UofUDataScience/playlists
+
+# EEC610 - Fall 2020
+https://www.youtube.com/playlist?list=PL1oUplw2JBTh6LX7SItnzrp4jlGABIZzs
+
+# CS/STAT 287:
+https://www.youtube.com/playlist?list=PLnv2PpSGjnm-Jne9Alg0hPw4cca-5ehIM
+
+# Non-Euclidean Methods in Machine Learning
+http://graphics.stanford.edu/courses/cs468-20-fall/
+
+# Bayesian Data Analysis course
+https://avehtari.github.io/BDA_course_Aalto/
+
 # Rishabh Iyer
 https://www.youtube.com/channel/UCFxNtj-vst1VQKWjtwlzAzQ/playlists
 
