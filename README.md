@@ -2,6 +2,24 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Multimodal Machine Learning
+https://www.youtube.com/playlist?list=PLTLz0-WCKX616TjsrgPr2wFzKF54y-ZKc
+
+# Henry AI Labs
+https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos
+
+# Introduction to Linear Algebra for Applied Machine Learning with Python
+https://pabloinsente.github.io/intro-linear-algebra
+
+# Made with ML
+https://madewithml.com/courses/mlops/
+
+# Galvanize Data Science
+https://www.youtube.com/channel/UC65Th93eDb2iuD-9fZVnjFg/videos
+
+# Tübingen Machine Learning
+https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA
+
 # Gary Holness
 https://www.youtube.com/channel/UCMxdbJX_n11lkVSRwVa0AjA/playlists
 
