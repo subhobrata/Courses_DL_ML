@@ -2,6 +2,15 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Pytorch
+https://www.youtube.com/c/PyTorch/playlists
+
+# Ricardo Calix
+https://www.youtube.com/channel/UCKRgi-HJDEq0a3nhlG2nQvg/playlists
+
+# Erdem Akagündüz
+https://www.youtube.com/channel/UCQlfzrQCOF7hYnw6cqekr1A/playlists
+
 # Data Umbrella
 https://www.youtube.com/c/DataUmbrella/videos
 
