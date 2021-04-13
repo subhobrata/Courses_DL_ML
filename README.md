@@ -2,6 +2,34 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Florian Marquardt
+https://www.youtube.com/channel/UCv6Vor64ENpDyevHvrDQSLA/playlists
+
+# Machine learning fundationals NSW HSC Maths
+https://www.youtube.com/playlist?list=PLxQSlOe-wlgAG_A_6ES9hpD_2-gm1D-UY
+
+# Seung-Tai. Park
+https://www.youtube.com/user/stapark11/videos
+
+# Se Young Yun
+https://www.youtube.com/user/list1343/playlists
+
+# Sabudh Foundation
+https://www.youtube.com/channel/UCD-iSQ93rnyy74l88hy4p2w/videos
+
+# TWIML Community
+https://www.youtube.com/channel/UCWtY0NYpa3hXbJprpt1qLbQ/playlists
+
+# SIA
+https://www.youtube.com/channel/UCpOzm86FK6ykphKwDJxVtZw/playlists
+
+# Pedram Jahangiry
+https://www.youtube.com/channel/UCNDElcuuyX-2pSatVBDpJJQ/videos
+https://github.com/PJalgotrader/ML-USU-SP21
+
+# Machine Learing Center
+https://www.youtube.com/channel/UCE1RgRW359YSjUVPmjTmGHg/playlists
+
 # Pytorch
 https://www.youtube.com/c/PyTorch/playlists
 
