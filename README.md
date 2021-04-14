@@ -2,6 +2,12 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Artificial Intelligence
+https://www.youtube.com/c/AIResearchUpdates/playlists
+
+# Andreas Maier
+https://www.youtube.com/c/AndreasMaierTV/playlists
+
 # Soheil Feizi
 # CMSC 828W: Foundations of Deep Learning
 https://www.cs.umd.edu/~sfeizi/
