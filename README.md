@@ -2,6 +2,15 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Ahmad Bazzi
+https://www.youtube.com/c/AhmadBazzi/videos
+
+# 
+
+# Deep Learning for Computer Vision:Fundamentals and Applications
+https://dl4cv.github.io/
+https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv
+
 # Deep Learning for Computer Vision - Justin Johnson
 https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
 
