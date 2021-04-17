@@ -2,10 +2,21 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Mediterranean Machine Learning
+https://www.m2lschool.org/
+https://www.youtube.com/playlist?list=PLF-wkqRv4u1YRbfnwN8cXXyrmXld-sked
+
+# Jarrar Lectures
+https://www.youtube.com/c/JarrarCourses/playlists
+http://www.jarrar.info/courses/AI/
+http://www.jarrar.info/courses/AI/Jarrar.LectureNotes.AI.IntoMachineLearning.pdf
+
 # Ahmad Bazzi
 https://www.youtube.com/c/AhmadBazzi/videos
 
-# 
+# CompStat Munich
+https://introduction-to-machine-learning.netlify.app/
+https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/videos
 
 # Deep Learning for Computer Vision:Fundamentals and Applications
 https://dl4cv.github.io/
