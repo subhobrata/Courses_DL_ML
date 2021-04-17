@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Foundations of Data Science
+https://www.youtube.com/channel/UCHxCgxeMzE3vkxVsqyudzdA/playlists
+
 # Mediterranean Machine Learning
 https://www.m2lschool.org/
 https://www.youtube.com/playlist?list=PLF-wkqRv4u1YRbfnwN8cXXyrmXld-sked
