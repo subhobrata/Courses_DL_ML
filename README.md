@@ -7,6 +7,16 @@ https://github.com/jtao/AdvancedML
 https://github.com/kapelner/QC_MATH_342W_Spring_2021
 https://github.com/Offliners/ML-writeup
 https://github.com/AndrewKalil/holbertonschool-machine_learning
+https://github.com/ankitbit/Machine-Learning
+https://ml.ubc.ca/mlrg/
+cs167.github.io
+https://github.com/cs167/cs167.github.io
+https://github.com/jarek-pawlowski/advanced-machine-learning
+https://github.com/cndssldrgl/Introduction_to_Machine_Learning_Course
+https://github.com/nicta839/MSc_Statistics_and_Machine_Learning
+https://github.com/graf10a/Applied-Machine-Learning-Course
+https://github.com/SERG-Delft/remla
+https://github.com/marshka/ml-20-21
 
 # italian-machine-learning-course
 https://github.com/galeone/italian-machine-learning-course
