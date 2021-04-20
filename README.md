@@ -17,6 +17,9 @@ https://github.com/nicta839/MSc_Statistics_and_Machine_Learning
 https://github.com/graf10a/Applied-Machine-Learning-Course
 https://github.com/SERG-Delft/remla
 https://github.com/marshka/ml-20-21
+https://jeremy9959.net/Math-3094-Spring-2021/
+https://github.com/jeremy9959/Math-3094-Spring-2021
+https://github.com/andrea-gasparini/machine-learning-homeworks
 
 # italian-machine-learning-course
 https://github.com/galeone/italian-machine-learning-course
