@@ -2,6 +2,11 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# https://mlvu.github.io/
+https://mlvu.github.io/
+https://www.youtube.com/user/riskone1
+
+
 # Github
 https://github.com/jtao/AdvancedML
 https://github.com/kapelner/QC_MATH_342W_Spring_2021
