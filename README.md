@@ -2,6 +2,10 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Kaggle Solutions
+https://farid.one/kaggle-solutions/
+https://github.com/faridrashidi/kaggle-solutions
+
 # Geoff Hulten
 https://www.youtube.com/c/GeoffHulten/videos
 
