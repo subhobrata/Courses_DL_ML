@@ -5,6 +5,7 @@ https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw
 # Kaggle Solutions
 https://farid.one/kaggle-solutions/
 https://github.com/faridrashidi/kaggle-solutions
+https://www.kaggle.com/headsortails/hidden-gems-a-collection-of-underrated-notebooks
 
 # Geoff Hulten
 https://www.youtube.com/c/GeoffHulten/videos
