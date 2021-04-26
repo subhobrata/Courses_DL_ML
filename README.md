@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Krishnaswamy Lab
+https://www.youtube.com/channel/UC3qWc7ktrRJVGjYY6Fys4-A/videos
+
 # CVRP Lab at NUS
 https://www.youtube.com/channel/UC8wqMjG6rQNN_1EGLmOfNnA/playlists
 
