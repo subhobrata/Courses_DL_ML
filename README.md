@@ -14,6 +14,9 @@ https://www.kaggle.com/headsortails/notebooks-of-the-week-hidden-gems
 # Geoff Hulten
 https://www.youtube.com/c/GeoffHulten/videos
 
+# Optimum Prime
+https://www.youtube.com/channel/UC2FECDvMphKdqi8RnFGD3Bg/playlists
+
 
 # Andreas Mueller
 https://www.youtube.com/channel/UCMEXgDffQy6nS2a74Gby8ZA
