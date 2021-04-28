@@ -2,6 +2,12 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Deep Imaging
+https://www.youtube.com/channel/UCywoX0JJTEKvL6PnxZWDP5Q/videos
+
+# Humans to Robots Motion Research Group
+https://www.youtube.com/channel/UCVe0W0-tDpHaTuxLB8DmV2g/videos
+
 # Butterfly Learning
 https://www.youtube.com/channel/UCl-sjClQb1FOv63Wo5HMXLA/videos
 
