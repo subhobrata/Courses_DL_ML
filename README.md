@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Hari Srihari
+https://www.youtube.com/channel/UCUm7yUmVJyAbYh_0ppJ4H-g/playlists
+
 # Prof Ghrist Math
 https://www2.math.upenn.edu/~ghrist/BLUE.html
 https://www.youtube.com/c/ProfGhristMath/playlists
