@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Butterfly Learning
+https://www.youtube.com/channel/UCl-sjClQb1FOv63Wo5HMXLA/videos
+
 # Badri Adhikari
 https://www.youtube.com/channel/UCIuidueYpCwUTwc5dsM4o9g/videos
 
