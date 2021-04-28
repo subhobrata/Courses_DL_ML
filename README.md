@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Gilles Louppe
+https://www.youtube.com/user/42gl/videos
+
 # Deep Imaging
 https://www.youtube.com/channel/UCywoX0JJTEKvL6PnxZWDP5Q/videos
 
