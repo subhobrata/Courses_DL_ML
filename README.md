@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Calgary Data Science Academy
+https://www.youtube.com/channel/UCR--quhZBhQo-I9-cpHLFPw/playlists
+
 # ChrisMcCormickAI
 https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw/videos
 
