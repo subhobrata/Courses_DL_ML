@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# 김승룡[ 조교수 / 컴퓨터학과 ]
+https://www.youtube.com/channel/UCro6IqfE5NOspKCDusilfmw/playlists
+
 # CompStat Munich
 https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/videos
 
