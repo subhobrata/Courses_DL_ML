@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# CompStat Munich
+https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/videos
+
 # Faraz Moghimi
 MBA AF 632 : Asset Management Practicum Spring 2021
 https://www.youtube.com/channel/UCT_ImMy14waTh1vU1aYfORw/videos
