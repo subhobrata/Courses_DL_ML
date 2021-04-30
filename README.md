@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Luke Postle
+https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU
+
 # debdeep's
 https://www.youtube.com/channel/UC0rDBCkhasTCVGJcnVyFHHQ/videos
 https://harvard-ml-courses.github.io/cs181-web/recap2
