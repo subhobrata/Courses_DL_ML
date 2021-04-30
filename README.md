@@ -5,7 +5,7 @@ https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw
 # Luke Postle
 https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU
 
-# debdeep's
+# debdeep's Harvard Lectures
 https://www.youtube.com/channel/UC0rDBCkhasTCVGJcnVyFHHQ/videos
 https://harvard-ml-courses.github.io/cs181-web/recap2
 https://github.com/harvard-ml-courses
@@ -13,6 +13,7 @@ http://cs109.github.io/2015/pages/videos.html
 https://harvard-iacs.github.io/2020-CS109B/pages/materials.html
 https://harvard-iacs.github.io/2021-CS109B/
 https://canvas.harvard.edu/courses/37482/pages/lecture-videos?module_item_id=353419
+https://github.com/Harvard-IACS
 
 
 # Ha Nguyen
