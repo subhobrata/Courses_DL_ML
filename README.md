@@ -4,6 +4,7 @@ https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw
 
 # debdeep's
 https://www.youtube.com/channel/UC0rDBCkhasTCVGJcnVyFHHQ/videos
+https://harvard-ml-courses.github.io/cs181-web/recap2
 
 # Ha Nguyen
 https://www.youtube.com/c/HaNguyen149/videos
