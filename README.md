@@ -10,6 +10,10 @@ https://www.youtube.com/channel/UC0rDBCkhasTCVGJcnVyFHHQ/videos
 https://harvard-ml-courses.github.io/cs181-web/recap2
 https://github.com/harvard-ml-courses
 http://cs109.github.io/2015/pages/videos.html
+https://harvard-iacs.github.io/2020-CS109B/pages/materials.html
+https://harvard-iacs.github.io/2021-CS109B/
+https://canvas.harvard.edu/courses/37482/pages/lecture-videos?module_item_id=353419
+
 
 # Ha Nguyen
 https://www.youtube.com/c/HaNguyen149/videos
