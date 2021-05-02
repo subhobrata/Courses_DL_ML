@@ -5,6 +5,9 @@ https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw
 # Luke Postle
 https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU
 
+# Erdem Akagündüz
+https://www.youtube.com/channel/UCQlfzrQCOF7hYnw6cqekr1A/videos
+
 # debdeep's Harvard Lectures
 https://www.youtube.com/channel/UC0rDBCkhasTCVGJcnVyFHHQ/videos
 https://harvard-ml-courses.github.io/cs181-web/recap2
