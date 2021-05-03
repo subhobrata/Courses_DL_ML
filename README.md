@@ -2,6 +2,15 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Advanced probability and applications
+https://moodle.epfl.ch/course/view.php?id=14557
+
+# Linear Algebra Animations
+https://www.youtube.com/channel/UC4tBtpcL_noyBi0Ac2-6llA/videos
+
+# Automl
+https://github.com/vopani/fortyone#automl-series-
+
 # Luke Postle
 https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU
 
