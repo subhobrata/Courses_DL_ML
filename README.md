@@ -2,6 +2,12 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Reproducible Deep Learning
+https://github.com/sscardapane/reprodl2021
+
+# François Fleuret
+https://fleuret.org/dlc/#lecture-10
+
 # Sean Holden's Artificial Intelligence Courses
 https://www.youtube.com/channel/UCslVztc6jzh5wLEG-iKHbwQ/playlists
 https://www.cl.cam.ac.uk/~sbh11/
