@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Repository for code and materials for the Galvanize DSI Premium Prep
+https://github.com/GalvanizeOpenSource/dsi-premium-prep
+
 # Prof Dr - Ing Morris Riedel
 https://www.youtube.com/channel/UCWC4VKHmL4NZgFfKoHtANKg/playlists
 
