@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Prof Dr - Ing Morris Riedel
+https://www.youtube.com/channel/UCWC4VKHmL4NZgFfKoHtANKg/playlists
+
 # CPSC392
 https://www.youtube.com/playlist?list=PLmxpwhh4FDm5zuA_63jV6iiz5wrg76UHV
 https://github.com/cmparlettpelleriti/CPSC392ParlettPelleriti
