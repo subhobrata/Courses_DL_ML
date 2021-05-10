@@ -2,6 +2,10 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Raymond Cao
+https://www.youtube.com/channel/UCBLn3cKe00PP0aHPKRjoGBA/videos
+https://github.com/rayc2020/LessonPythonCode
+
 # Repository for code and materials for the Galvanize DSI Premium Prep
 https://github.com/GalvanizeOpenSource/dsi-premium-prep
 
