@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Carnegie Mellon University Deep Learning
+https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists
+
 # Joseph Bakarji
 https://www.youtube.com/watch?v=xXF-1ucUVU4&t=1120s
 
