@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Joseph Bakarji
+https://www.youtube.com/watch?v=xXF-1ucUVU4&t=1120s
+
 # Minjoon Seo
 https://seominjoon.github.io/kaist-ai605/
 https://www.youtube.com/c/MinjoonSeo329/playlists
