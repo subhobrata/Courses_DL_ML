@@ -2,7 +2,8 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
-# 
+# SCADS Data Science Channel
+https://www.youtube.com/channel/UCpVMgTZzebVvH4rJ0N5c_MQ/playlists
 
 
 # Ari Seff
