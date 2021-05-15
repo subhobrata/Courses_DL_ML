@@ -2,6 +2,12 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Text Retrieval
+https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO
+
+# NLP Course
+https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
+
 # SCADS Data Science Channel
 https://www.youtube.com/channel/UCpVMgTZzebVvH4rJ0N5c_MQ/playlists
 
