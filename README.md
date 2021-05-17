@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# KTU | Mathematics for Machine Learning 
+https://www.youtube.com/playlist?list=PL0j1SAXqn8ZuPeSxFF-6RowAqE-HhpNGb
+
 # Neuromatch Academy
 https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw/playlists
 
