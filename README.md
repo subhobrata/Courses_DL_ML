@@ -2,6 +2,18 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# ChrisAlbon
+https://www.twitch.tv/wikimediaml
+
+# Introduction To Deep Learning
+https://github.com/Tebs-Lab/intro-to-deep-learning
+
+# Machine Learning Course
+https://ansegura7.github.io/MachineLearning/
+
+# Machine learning Maths book
+https://book.tivadardanka.com/
+
 # Applied Deep Learning
 https://github.com/maziarraissi/Applied-Deep-Learning
 
