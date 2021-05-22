@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# EC 524, Winter 2020
+https://github.com/edrubin/EC524W20
+
 # PYTOTCH IMAGE MODELS
 https://github.com/rwightman/pytorch-image-models
 
