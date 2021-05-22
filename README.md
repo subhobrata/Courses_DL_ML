@@ -2,6 +2,15 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Mathematical Tools for Data Science
+https://cds.nyu.edu/math-tools/
+
+# hamannlab
+https://www.youtube.com/user/hamannlab/videos
+
+# PyColorado
+https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos
+
 # Handbook of Regression Modeling in People Analytics by Keith McNulty
 http://peopleanalytics-regression-book.org/
 
