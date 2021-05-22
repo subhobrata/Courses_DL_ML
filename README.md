@@ -2,6 +2,14 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# PYTOTCH IMAGE MODELS
+https://github.com/rwightman/pytorch-image-models
+
+# The Book of Statistical Proofs
+https://statproofbook.github.io/
+
+https://pair.withgoogle.com/guidebook
+
 # Mathematical Tools for Data Science
 https://cds.nyu.edu/math-tools/
 
