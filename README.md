@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# BS and MS Statistics and Data science from IIT Kanpur
+https://www.iitk.ac.in/math/bs-ms
+
 # Deep Learning Visuals
 https://github.com/dvgodoy/dl-visuals
 
