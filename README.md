@@ -2,6 +2,12 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Deep Learning Visuals
+https://github.com/dvgodoy/dl-visuals
+
+# Visajobs
+https://www.visajobshq.com/post/data-scientist-in-netherlands-work-visa-sponsorship-available
+
 # EC 524, Winter 2020
 https://github.com/edrubin/EC524W20
 
