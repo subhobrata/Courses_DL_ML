@@ -2,6 +2,18 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# NetPyNE2021
+https://www.youtube.com/watch?v=Fcc-cg6t0Eg&t=38s
+
+# The Independent Code
+https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg/videos
+
+# Asaminew Gizaw
+https://www.youtube.com/channel/UCmxqDgtIJLYROkrwGRGGDxA/videos
+
+# ML Made Easy
+https://www.youtube.com/channel/UCyhBWxhmhZLOmCwgnXDltmA/videos
+
 # BS and MS Statistics and Data science from IIT Kanpur
 https://www.iitk.ac.in/math/bs-ms
 
