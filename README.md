@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Ilya Schurov
+https://www.youtube.com/user/ilyaschurov/videos
+
 # NetPyNE2021
 https://www.youtube.com/watch?v=Fcc-cg6t0Eg&t=38s
 
