@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Complete-Life-Cycle-of-a-Data-Science-Project
+https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
+
 # Course notes for MSDS621 at Univ of San Francisco, introduction to machine learning
 https://github.com/parrt/msds621
 
