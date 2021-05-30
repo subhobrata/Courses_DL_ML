@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# ProjectPro - Data Science Projects
+https://www.youtube.com/channel/UCfuyYAtTG15_db2PRuaerZg/playlists
+
 # Complete-Life-Cycle-of-a-Data-Science-Project
 https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
 
