@@ -2,6 +2,27 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Amazing Feature engineering
+https://github.com/ashishpatel26/Amazing-Feature-Engineering
+
+# Carberra Tutorials
+https://www.youtube.com/c/CarberraTutorials/videos
+
+# ML & IoT Lab
+https://www.youtube.com/channel/UC9AM1RPa565t1dmVPXG5vmw/videos
+
+# Aladdin Persson
+https://www.youtube.com/c/AladdinPersson/videos
+
+# Chandrashekhar Padole
+https://www.youtube.com/user/chandupadole/videos
+
+Mo Medwani
+https://www.youtube.com/channel/UCz_heFdzJAvXq8DwEqLbdKA/playlists
+
+# The Machine Learning & Deep Learning Show
+https://www.youtube.com/channel/UCkXNihhngE8t3nbXyuN0SFQ/videos
+
 # ProjectPro - Data Science Projects
 https://www.youtube.com/channel/UCfuyYAtTG15_db2PRuaerZg/playlists
 
