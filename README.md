@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# TwinEd Productions
+https://www.youtube.com/channel/UC9Veyd5VRiS_0_m94rzW6sw/videos
+
 # Amazing Feature engineering
 https://github.com/ashishpatel26/Amazing-Feature-Engineering
 
