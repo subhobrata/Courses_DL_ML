@@ -2,6 +2,25 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Jens Behley
+https://www.youtube.com/channel/UCq8xRLqKcc8FSpYrPMrCvTQ/playlists
+
+# Tali Dekel
+https://www.youtube.com/user/talibasha/playlists
+
+# Butterfly Learning
+https://www.youtube.com/channel/UCl-sjClQb1FOv63Wo5HMXLA/videos
+
+# Vojtěch Vrba
+https://www.youtube.com/c/Vojt%C4%9BchVrba/playlists
+
+# CompStat Munich
+https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ
+https://introduction-to-machine-learning.netlify.app/
+
+# Swapneel Mehta
+https://www.youtube.com/channel/UCjxlsK4aY-RGe3yoBp7N0UA/playlists
+
 # TwinEd Productions
 https://www.youtube.com/channel/UC9Veyd5VRiS_0_m94rzW6sw/videos
 
