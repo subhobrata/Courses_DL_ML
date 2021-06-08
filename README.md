@@ -2,6 +2,11 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Full Stack Deep Learning
+https://docs.google.com/document/d/e/2PACX-1vSM5sHxDqM1XmE0PkvZjch6-lPCLBozy-UV4YsdbqXzjUgd7UhuNtg9T3Jr9MqP4CD79FpevxYh3p0p/pub
+https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2021-labs
+https://www.youtube.com/c/FullStackDeepLearning/videos
+
 # Numerical-Computing-in-Python-with-NumPy-and-SciPy
 https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy
 
