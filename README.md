@@ -16,6 +16,10 @@ https://www.youtube.com/c/FullStackDeepLearning/videos
 
 # Non-Euclidean Methods in Machine Learning
 http://graphics.stanford.edu/courses/cs468-20-fall/schedule.html
+https://www.youtube.com/playlist?list=PLlASSih11GgFbKOvzg-vlaAPS6WU6-_Xz
+
+# Numerical Linear Algebra 2020-2021
+https://www.youtube.com/user/martijnanth/playlists
 
 # Numerical-Computing-in-Python-with-NumPy-and-SciPy
 https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy
