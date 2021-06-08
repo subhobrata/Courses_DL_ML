@@ -5,6 +5,9 @@ https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw
 # Numerical-Computing-in-Python-with-NumPy-and-SciPy
 https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy
 
+# Chinese University Courses
+https://sites.google.com/view/nsysu-dvlab/courses/computer-vision-2021#h.ayrme7ruk5gu
+https://sites.google.com/view/nsysu-dvlab/courses/linear-algebra-2021?authuser=0
 
 # NeEDS - Network of European Data Scientists
 https://www.youtube.com/playlist?list=PL8Itx3jglgw493OOF_YmqlSUgxKBUdncl
