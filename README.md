@@ -21,6 +21,7 @@ https://dataflowr.github.io/website/modules/graph1/
 https://dataflowr.github.io/website/modules/graph2/
 https://dataflowr.github.io/website/modules/graph3/
 https://www.youtube.com/channel/UCooNXm7hUIKnFn4oLvYXotQ/playlists
+https://dataflowr.github.io/website/modules/extras/Convolutions_first/
 
 # Mark Saroufim
 https://www.youtube.com/user/marksaroufim/videos
