@@ -2,6 +2,11 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+
+# NeEDS - Network of European Data Scientists
+https://www.youtube.com/playlist?list=PL8Itx3jglgw493OOF_YmqlSUgxKBUdncl
+https://riseneeds.eu/
+
 # Introduction to Symbolic Computation
 http://homepages.math.uic.edu/~jan/mcs320/mcs320notes/index.html
 
