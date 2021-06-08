@@ -2,6 +2,15 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# CMSC 420 - 0101 Data Structures Spring 2021 Dave Mount
+https://www.cs.umd.edu/class/spring2021/cmsc420-0101/lectures.html
+
+# Dataflowr
+https://dataflowr.github.io/website/modules/graph1/
+https://dataflowr.github.io/website/modules/graph2/
+https://dataflowr.github.io/website/modules/graph3/
+https://www.youtube.com/channel/UCooNXm7hUIKnFn4oLvYXotQ/playlists
+
 # Mark Saroufim
 https://www.youtube.com/user/marksaroufim/videos
 
