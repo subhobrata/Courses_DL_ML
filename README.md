@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Introduction to Symbolic Computation
+http://homepages.math.uic.edu/~jan/mcs320/mcs320notes/index.html
+
 # CMSC 420 - 0101 Data Structures Spring 2021 Dave Mount
 https://www.cs.umd.edu/class/spring2021/cmsc420-0101/lectures.html
 
