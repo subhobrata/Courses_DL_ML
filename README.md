@@ -2,6 +2,9 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+# Numerical-Computing-in-Python-with-NumPy-and-SciPy
+https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy
+
 
 # NeEDS - Network of European Data Scientists
 https://www.youtube.com/playlist?list=PL8Itx3jglgw493OOF_YmqlSUgxKBUdncl
