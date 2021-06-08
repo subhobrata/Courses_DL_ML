@@ -14,6 +14,9 @@ https://docs.google.com/document/d/e/2PACX-1vSM5sHxDqM1XmE0PkvZjch6-lPCLBozy-UV4
 https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2021-labs
 https://www.youtube.com/c/FullStackDeepLearning/videos
 
+# Non-Euclidean Methods in Machine Learning
+http://graphics.stanford.edu/courses/cs468-20-fall/schedule.html
+
 # Numerical-Computing-in-Python-with-NumPy-and-SciPy
 https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy
 
