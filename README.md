@@ -14,6 +14,10 @@ https://docs.google.com/document/d/e/2PACX-1vSM5sHxDqM1XmE0PkvZjch6-lPCLBozy-UV4
 https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2021-labs
 https://www.youtube.com/c/FullStackDeepLearning/videos
 
+# CMSC828U, Algorithms in Machine Learning: Guarantees and Analyses
+http://www.cs.umd.edu/class/fall2020/cmsc828u/
+https://www.youtube.com/playlist?list=PLM0SC1uXFSPo5TO_UN7fia1luj73yuHEC
+
 # Non-Euclidean Methods in Machine Learning
 http://graphics.stanford.edu/courses/cs468-20-fall/schedule.html
 https://www.youtube.com/playlist?list=PLlASSih11GgFbKOvzg-vlaAPS6WU6-_Xz
