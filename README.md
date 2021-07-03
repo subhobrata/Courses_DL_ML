@@ -2,6 +2,10 @@
 # Deep Learning in Computer Vision with Prof. Kosta Derpanis (Ryerson University)
 https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html?fbclid=IwAR0xemr0dSxVsw5ERuD3qbDcqTdLCIoEHcDWxesnHrh16mdCWjUWcmhxnJk
 
+https://github.com/ansegura7/MachineLearning
+https://github.com/ansegura7?tab=repositories
+https://twitter.com/SeguraAndres7/status/1410994524894240771
+
 # Carberra Tutorials
 https://www.youtube.com/watch?v=Nmu4_rCNIdY
 https://github.com/Carberra/data-analysis-tutorial
