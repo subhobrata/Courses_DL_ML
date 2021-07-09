@@ -6,6 +6,9 @@ https://github.com/ansegura7/MachineLearning
 https://github.com/ansegura7?tab=repositories
 https://twitter.com/SeguraAndres7/status/1410994524894240771
 
+# LxMLS 2021
+https://www.youtube.com/playlist?list=PLQl_xdhSmQegzsLin54NbfePFAuTUEmUj
+
 # Carberra Tutorials
 https://www.youtube.com/watch?v=Nmu4_rCNIdY
 https://github.com/Carberra/data-analysis-tutorial
