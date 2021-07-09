@@ -9,6 +9,9 @@ https://twitter.com/SeguraAndres7/status/1410994524894240771
 # LxMLS 2021
 https://www.youtube.com/playlist?list=PLQl_xdhSmQegzsLin54NbfePFAuTUEmUj
 
+# BCAM - Basque Center for Applied Mathematics
+https://www.youtube.com/user/BCAMchannel/playlists
+
 # Carberra Tutorials
 https://www.youtube.com/watch?v=Nmu4_rCNIdY
 https://github.com/Carberra/data-analysis-tutorial
